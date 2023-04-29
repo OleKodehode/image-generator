@@ -14,8 +14,7 @@ export default function Home() {
   return (
     <div>
       <h1>
-        Unsplash Image Downloader
-
+        Image generator
       </h1>
       <input
         type="text"
